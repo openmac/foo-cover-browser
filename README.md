@@ -15,7 +15,7 @@ Cover Art Browser for Foobar2000 Mac
 
 ## How to build
 1. Download the source code from this github project.
-2. Download the [Foobar2000 SDK] (https://www.foobar2000.org/SDK).
+2. Download the [Foobar2000 SDK](https://www.foobar2000.org/SDK).
 3. Extract the Foobar2000 SDK, copy cover_browser to SDK-date/foobar2000 folder.
 4. Open the coverbrowser.xcworkspace file inside cover_browser folder with XCode.
 5. Choose foo_sample as the target.
