@@ -23,5 +23,6 @@ Cover Art Browser for Foobar2000 Mac
 7. After build is done, click on Product > Show Build folder.
 8. Navigate the folder that opens until you reach a folder with the component extension, that's your file to give to Foobar2000.
 
+
 ## Credits
-This was originally build with GPT 5 Codex and later fixed and improved with Claude 4.5 Sonnet, I just gave them the prompts and made small modifications here and there.
+This was originally built with GPT 5 Codex and later fixed and improved with Claude 4.5 Sonnet, I just gave them the prompts and made small modifications here and there.
