@@ -21,6 +21,7 @@ Cover Art Browser for Foobar2000 Mac
 4. Open the coverbrowser.xcworkspace file inside cover_browser folder with XCode.
 5. Choose foo_sample as the target:
 <img width="479" height="365" alt="Screenshot 2025-12-04 at 2 22 29 PM" src="https://github.com/user-attachments/assets/19400ebc-174c-4b74-96bb-e68eb578355a" />
+
 6. Click the menu Product > Build For > Running.
 7. After build is done, click on Product > Show Build folder.
 8. Navigate the folder that opens until you reach a folder with the component extension, that's your file to give to Foobar2000.
