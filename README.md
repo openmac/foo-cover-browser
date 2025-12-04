@@ -6,12 +6,17 @@ Cover Art Browser for Foobar2000 Mac
 2. Install the component on Foorbar2000 (Settings -> Components -> +)
 3. After Foobar2000 restarts, you can access the Cover Browser from "View" menu.
 4. You can change the sort of albums.
-5. You can right click on each album and choose between:
+5. You can search by Album title or Artist.
+6. You can right click on each album and choose between:
  * Play
  * Send to Current Playlist
  * Add to Current Playlist
  * Send to New Playlist
-<img width="1012" height="764" alt="CoverBrowser" src="https://github.com/user-attachments/assets/fdabdb76-8994-4040-8bdc-cb7eb1fcee32" />
+<img width="1012" height="764" alt="Screenshot 2025-12-05 at 1 16 24 AM" src="https://github.com/user-attachments/assets/288b8391-0732-4ab1-9cc3-edc13517d288" />
+
+7. You can click on the settings icon to set the Cover Browser to open at Foobar2000's startup:
+<img width="468" height="102" alt="Screenshot 2025-12-05 at 1 15 17 AM" src="https://github.com/user-attachments/assets/979e95aa-0f05-4146-a847-8e1364c962f6" />
+
 
 
 ## How to build
@@ -28,4 +33,4 @@ Cover Art Browser for Foobar2000 Mac
 
 
 ## Credits
-This was originally built with GPT 5 Codex and later fixed and improved with Claude 4.5 Sonnet, I just gave them the prompts and made small modifications here and there.
+This was originally built with GPT 5 Codex and later fixed and improved with Claude Sonnet 4.5 and Gemini 3 Pro, I just gave them the prompts and made small modifications here and there.
